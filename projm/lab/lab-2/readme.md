@@ -231,6 +231,16 @@ Explanation of Order:
 - Post-Launch Support After Deployment: Continuous support is only possible after the application is live, addressing any issues that arise in real-world use.
 - Project Closure After All Activities: Formal closure signifies the end of the project, after all deliverables are met and resources can be released.
 
+### Comparison with Resource Plan
+
+In the task, the project duration was set to 25 months. Based on this, I estimated how much time each team should work during that period at each stage. However, after creating the Work Breakdown Structure (WBS) and conducting a thorough analysis of each task and its corresponding time requirements, it became evident that there is a significant amount of free time in the current resource allocation.
+
+Of course, some tasks were not included in the WBS. For example, the work of the project manager is continuous and spans across all stages of the project. Nevertheless, the free time that remains suggests one of two possible conclusions: either the 25-month duration allocated for the project is excessive and the project could realistically be completed in a shorter time frame, or my estimates may not fully capture the actual amount of time required for each team to complete their respective tasks.
+
+While I have experience in many fields and am familiar with the intricacies of various tasks, I have always worked independently and taken responsibility for every aspect of the projects I’ve worked on. Consequently, I estimated the days in the WBS based on how much time it would take me to complete those tasks individually. This might not align perfectly with how a team would approach the same tasks, leading to discrepancies between the estimated and actual durations.
+
+This analysis highlights the importance of collaborative planning and realistic workload assessments in project management. It also suggests that adjustments to either the timeline or resource allocation may be necessary to ensure the efficiency of the project.
+
 ## Conclusion
 
 The project plan is meticulously structured to ensure a logical flow of activities, efficient resource utilization, and the successful delivery of a secure, high-quality mobile banking application with AI capabilities. Each phase builds upon the previous one, mitigating risks and addressing critical aspects like security and user satisfaction at appropriate stages. The Work Breakdown Structure provides a clear roadmap for the project, facilitating effective management and communication among all stakeholders involved.

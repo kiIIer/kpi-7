@@ -42,6 +42,10 @@ In this laboratory work, we address the risks identified in Laboratory Work №4
   - Use a simplified fallback model for immediate operations.
   - Conduct joint debugging sessions between the AI and backend teams.
   - Schedule additional testing iterations to validate outputs.
+- Recovery Time Objective (RTO): 3 days for fallback implementation; 7 days for full resolution.
+- Checkpoints:
+  - Initial debugging within 24 hours.
+  - Progress update every 48 hours until resolved.
 - Post-Risk Assessment:
   - Document the root cause of integration failure.
   - Develop better testing frameworks for future integration phases.
@@ -60,6 +64,10 @@ In this laboratory work, we address the risks identified in Laboratory Work №4
   - Enable database sharding or horizontal scaling.
   - Introduce caching for frequently accessed data.
   - Perform extensive load testing to identify bottlenecks.
+- Recovery Time Objective (RTO): 4 hours for traffic redirection; 5 days for full optimization.
+- Checkpoints:
+  - Traffic redirection confirmation within 4 hours.
+  - Daily updates on optimization progress.
 - Post-Risk Assessment:
   - Update database design with performance optimizations.
   - Include database stress testing in future development cycles.
@@ -79,6 +87,10 @@ In this laboratory work, we address the risks identified in Laboratory Work №4
   - Deploy updated security patches.
   - Enhance monitoring systems to detect future intrusions.
   - Implement stricter access controls and two-factor authentication (2FA).
+- Recovery Time Objective (RTO): 12 hours to isolate systems; 3 days for vulnerability resolution.
+- Checkpoints:
+  - Vulnerability identified within 12 hours.
+  - Progress updates every 6 hours until resolution.
 - Post-Risk Assessment:
   - Conduct a post-mortem analysis of the breach.
   - Update security protocols and employee training.
@@ -97,6 +109,10 @@ In this laboratory work, we address the risks identified in Laboratory Work №4
 - Recovery Plan:
   - Hire temporary contractors or consultants to fill gaps.
   - Delay non-critical tasks to allow teams to focus on immediate priorities.
+- Recovery Time Objective (RTO): 2 days for workload adjustment; 7 days for additional hires or task redistribution.
+- Checkpoints:
+  - Initial reassignment within 48 hours.
+  - Weekly updates on workload status.
 - Post-Risk Assessment:
   - Improve task allocation processes and resource planning for future phases.
 
@@ -112,6 +128,10 @@ In this laboratory work, we address the risks identified in Laboratory Work №4
 - Recovery Plan:
   - Partner with vendors for on-demand expertise.
   - Schedule training programs for team members.
+- Recovery Time Objective (RTO): 5 days for consultant onboarding; 14 days for team training.
+- Checkpoints:
+  - Consultant or training resources secured within 5 days.
+  - Weekly progress reports during training.
 - Post-Risk Assessment:
   - Include upskilling initiatives in resource planning.
   - Maintain a directory of external consultants for future needs.
@@ -130,6 +150,10 @@ In this laboratory work, we address the risks identified in Laboratory Work №4
 - Recovery Plan:
   - Use placeholder data or simulated environments to continue progress.
   - Reallocate resources to non-dependent tasks.
+- Recovery Time Objective (RTO): 1 day for interim solutions; 7 days for dependency resolution.
+- Checkpoints:
+  - Initial workaround implemented within 24 hours.
+  - Daily updates on dependency resolution progress.
 - Post-Risk Assessment:
   - Strengthen dependency analysis during planning stages.
   - Allocate buffer time for critical tasks in future schedules.
@@ -146,6 +170,10 @@ In this laboratory work, we address the risks identified in Laboratory Work №4
 - Recovery Plan:
   - Use agile sprints to deliver incremental progress.
   - Communicate updated schedules transparently to stakeholders.
+- Recovery Time Objective (RTO): 7 days to reassess milestones; 14 days for timeline adjustments.
+- Checkpoints:
+  - Initial milestone reassessment completed within 7 days.
+  - Weekly updates on progress towards revised deadlines.
 - Post-Risk Assessment:
   - Refine estimation techniques with input from historical data.
 
@@ -163,6 +191,10 @@ In this laboratory work, we address the risks identified in Laboratory Work №4
 - Recovery Plan:
   - Develop in-house solutions as temporary replacements.
   - Negotiate SLA agreements with vendors for quicker recovery.
+- Recovery Time Objective (RTO): 8 hours for failover activation; 3 days for resolution.
+- Checkpoints:
+  - Initial failover completed within 8 hours.
+  - Daily updates on vendor status and progress.
 - Post-Risk Assessment:
   - Diversify dependencies to reduce reliance on single providers.
 
@@ -178,9 +210,13 @@ In this laboratory work, we address the risks identified in Laboratory Work №4
 - Recovery Plan:
   - Implement changes in iterative stages to minimize disruptions.
   - Document all changes to ensure alignment with initial goals.
+- Recovery Time Objective (RTO): 3 days for feasibility assessment; 10 days for plan adjustments.
+- Checkpoints:
+  - Feasibility assessment completed within 3 days.
+  - Weekly progress updates on implementation of changes.
 - Post-Risk Assessment:
   - Conduct requirement-gathering workshops to improve initial scoping.
 
-## Conclusion
+### Conclusion
 
 This SLA and contingency plan provide a structured framework for addressing the risks identified in the project. By defining triggers, immediate actions, roles, and recovery measures for each risk type, the plan ensures that the team is prepared to respond effectively. Regular reviews and updates to the SLA will further enhance its relevance and effectiveness, enabling the successful delivery of the mobile banking application.
